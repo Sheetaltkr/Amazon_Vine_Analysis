@@ -16,23 +16,37 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 - How many Vine reviews and non-Vine reviews were there?
 
-  Vine program reviews: **47** 
+ Vine program reviews: **47** 
   
   ![Vine program reviews](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/total_paid_reviews.png)
   
   Non-Vine program reviews: **8362**
-- How many Vine reviews were 5 stars?
+ 
+ - How many Vine reviews were 5 stars?
 
-  Vine program 5 star reviews: **15** 
+ ![Non_Vine program reviews](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/total_unpaid_reviews.png)
+ 
+  Vine program 5 star reviews: **15**
+  
 - How many non-Vine reviews were 5 stars?
 
+ ![Vine program 5_star_reviews](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/total_paid_reviews_5_star.png)
+ 
   Non-Vine program 5 star reviews: **4332**
+  
+ ![Non_Vine program 5_star_reviews](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/total_unpaid_reviews_5_star.png)
+  
 - What percentage of Vine reviews were 5 stars?
 
   Vine program 5 star reviews %: **32%**
+  
+ ![Vine program 5_star_reviews%](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/paid_reviews_5_star_prcnt.png)
+
 - What percentage of non-Vine reviews were 5 stars?
 
   Non-Vine program 5 star reviews %: **52%**
+
+![Non_Vine program 5_star_reviews%](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/unpaid_reviews_5_star_prcnt.png)
   
 ## Summary
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
