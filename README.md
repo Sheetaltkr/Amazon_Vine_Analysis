@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-#### Pupose
+#### Purpose
 - Analyze Amazon reviews written by members of the paid Amazon Vine program
 - Using product review dataset, perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin
 - Determine if there is any bias toward favorable reviews from Vine members in your dataset
@@ -49,4 +49,12 @@ Using bulleted lists and images of DataFrames as support, address the following 
 ![Non_Vine program 5_star_reviews%](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/unpaid_reviews_5_star_prcnt.png)
   
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+In your summary, state if there is any positivity bias for reviews in the Vine program. 
+1. There is no bias observed for reviews for product "watches"
+2. As per the results, 
+   - The total paid reviews are very less compared to unpaid reviews
+   - The total paid 5 star reviews are very less compared to unpaid  5 star reviews
+   - The percentage of paid 5 star reviews of total paid reviews is 32% and the percentage of unpaid 5 star reviews of total unpaid reviews is 52%
+   The above results prove that the possibility of paid reviews to influence the positive outcome of the reviews is very low. 
+ 
+Then, provide one additional analysis that you could do with the dataset to support your statement.
