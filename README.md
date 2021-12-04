@@ -15,6 +15,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 - Pyspark
 - AWS-RDS, AWS-S3
 - Postgres
+- Dataset: amazon_reviews_us_Watches_v1_00.tsv
 
 ## Results
 Using bulleted lists and images of DataFrames as support, address the following questions:
