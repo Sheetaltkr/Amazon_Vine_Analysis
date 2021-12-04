@@ -18,6 +18,8 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
   Vine program reviews: **47** 
   
+  ![Vine program reviews](https://github.com/Sheetaltkr/Amazon_Vine_Analysis/blob/main/Resources/total_paid_reviews.png)
+  
   Non-Vine program reviews: **8362**
 - How many Vine reviews were 5 stars?
 
